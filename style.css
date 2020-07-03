@@ -92,7 +92,7 @@ nav li a:hover {
 }
 
 .action-btn:active {
-	box-shadow:none;
+	box-shadow:0 6px #28459;
   	position:relative;
   	top:6px;
 }
